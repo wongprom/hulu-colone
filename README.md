@@ -1,6 +1,6 @@
 # Hulu - clone
 
-Hulu-clone project that interacts with  
+[Hulu-clone](https://hulu-colone.vercel.app/) project that interacts with  
 [The Movie Database (TMDb)](https://www.themoviedb.org)
 
 ![Hulu-clone](hulu.png)
@@ -15,4 +15,4 @@ Hulu-clone project that interacts with
 
 ## Deployd on Vercel
 
-- ....
+- Go to Site [Hulu-clone](https://hulu-colone.vercel.app/)
